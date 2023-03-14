@@ -1,4 +1,6 @@
 # template-vite-react-ts-lint-format-test
+## React 
+v18
 ## start
 npm run dev
 ## eslint
